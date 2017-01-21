@@ -1,0 +1,6 @@
+{
+    "port": 4000,
+    "routesFolder": "app/routes",
+    "staticFolder": "public",
+    "viewsFolder": "public/views"
+} 

@@ -1,0 +1,22 @@
+{
+  "name": "demoelegantaproject",
+  "version": "1.0.0",
+  "description": "A demo project buit in Eleganta!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegantamvc/DemoElegantaProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elegantamvc/DemoElegantaProject/issues"
+  },
+  "homepage": "https://github.com/elegantamvc/DemoElegantaProject#readme",
+  "dependencies": {
+    "eleganta": "0.0.1"
+  }
+}
